@@ -35,8 +35,12 @@ body {
 }
 
 .my_image {
-    position: absolute; 
+    position: absolute;  
     align-self: center; 
+    top: 110px; 
+    right: 30%; 
+    height: 300px;    
+    border-radius: 100px; 
 }
 
 .background {
