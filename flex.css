@@ -7,16 +7,17 @@ body {
     display: flex; 
     justify-content: center;
     align-items: center; 
-    padding-left: 150px; 
+    padding-left: 100px; 
     flex-direction: row; 
     border-radius: 10px; 
-    margin-left: 100px; 
     margin-right: 20px; 
     height: 40px; 
+    flex-wrap : wrap; 
 }
 
-
-
+.logo{
+    height: 50px; 
+}
 .butt {
     color: white;    
 }
