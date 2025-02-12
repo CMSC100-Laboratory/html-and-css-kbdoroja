@@ -4,7 +4,8 @@ cmsc 100: exer 2
 
 >website link: https://cmsc100-laboratory.github.io/html-and-css-kbdoroja/
 
->key takeaway: That creating a Just a webpage is hard and time consuming, as a tiny formatting line can warp how other element look. 
+>key takeaway: That creating a Just a webpage is hard and time consuming, as a tiny formatting line can warp how other element look.
+>and also i forgot to use branches sir i'm so sorry 
 
 >how to create a github page: 
 1. Create a new repository 
