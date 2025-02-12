@@ -39,7 +39,7 @@ body {
     position: absolute;  
     align-self: center; 
     top: 200px; 
-    right: 40%; 
+    right: 45%; 
     height: 300px;    
     border-radius: 100px; 
     border-style: solid; 
@@ -90,10 +90,11 @@ body {
 .footer {
     display: flex; 
     border-radius: 10px;  
-    height: 40px;
+    height: 60px; 
     justify-content: center;
     align-items: center; 
     padding-left: 100px; 
+
     background-color: rgb(69, 3, 71); 
     flex-direction: row; 
     flex-wrap : wrap; 
