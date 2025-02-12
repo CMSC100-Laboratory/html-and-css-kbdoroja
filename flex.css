@@ -23,7 +23,8 @@ body {
 }
 
 .flex_container {
-    display: flex; 
+    display: flex;
+    margin-top: 50px;  
     flex-direction: row; 
 }
 
@@ -37,8 +38,8 @@ body {
 .my_image {
     position: absolute;  
     align-self: center; 
-    top: 150px; 
-    right: 50%; 
+    top: 200px; 
+    right: 40%; 
     height: 300px;    
     border-radius: 100px; 
     border-style: solid; 
@@ -90,6 +91,10 @@ body {
     display: flex; 
     border-radius: 10px;  
     height: 40px;
+    justify-content: center;
+    align-items: center; 
+    padding-left: 100px; 
     background-color: rgb(69, 3, 71); 
     flex-direction: row; 
+    flex-wrap : wrap; 
 }
