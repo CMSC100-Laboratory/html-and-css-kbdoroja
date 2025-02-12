@@ -1,0 +1,39 @@
+.flex_container {
+    display: flex; 
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: red; 
+    flex-direction: row; 
+}
+
+.photo_area {
+    display: flex; 
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: red; 
+    flex-direction: row; 
+}
+
+.navigation{
+    display: flex; 
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: blue; 
+    flex-direction: row; 
+}
+
+.flex_container2 {
+    display: flex; 
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: blue; 
+    flex-direction: row; 
+}
+
+.footer {
+    display: flex; 
+    border-style: solid; 
+    border-width: 3px; 
+    border-color: green; 
+    flex-direction: row; 
+}
