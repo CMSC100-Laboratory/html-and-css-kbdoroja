@@ -15,24 +15,22 @@ body {
     height: 40px; 
 }
 
+
+
 .butt {
-    color: white; 
-   
+    color: white;    
 }
 
 .flex_container {
     display: flex; 
-    border: solid; 
     flex-direction: row; 
 }
 
-.flex_item {
-    border: solid; 
-    border-radius: 10px; 
-    margin-right: 20px; 
-    margin-left: 20px; 
-    margin-top: 10px; 
-
+.links {
+    color: purple; 
+    justify-content: center;
+    padding-left: 35px; 
+    text-justify: justify; 
 }
 
 .my_image {
@@ -68,6 +66,16 @@ body {
 .flex_container2 {
     display: flex; 
     flex-direction: row; 
+    flex-wrap: wrap; 
+}
+
+.flex_item {
+    background-color: rgb(180, 144, 238);
+    border-radius: 10px; 
+    margin-right: 20px; 
+    margin-left: 20px; 
+    margin-top: 10px; 
+
 }
 
 .footer {
